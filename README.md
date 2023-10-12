@@ -1,2 +1,5 @@
-# qf2021-logo
-Generative logo for Queima das Fitas Coimbra 2021 edition.
+# Generative Logo
+Generative logo for the students' festival Queima das Fitas Coimbra.
+(2021 edition).
+
+Written in Processing.
